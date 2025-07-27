@@ -38,16 +38,16 @@ You can run the project locally by simply opening the `index.html` file in your 
 [Or just view it live here](https://vasundhara-singh0911.github.io/ecommerce-hompage-layout/)
 
 
-⚠️ Disclaimer
+⚠️ Disclaimer : 
 This website layout is for educational and demonstration purposes only.
 It is not affiliated with or endorsed by Amazon or any real-world brand.
 No real transactions, data collection, or branding usage occurs.
 All trademarks and images used (if any) belong to their respective owners.
 
-📜 License
+📜 License : 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it for learning or personal use.
 
-👩‍💻 Author
+👩‍💻 Author :
 Vasundhara Singh
 🔗 GitHub Profile
