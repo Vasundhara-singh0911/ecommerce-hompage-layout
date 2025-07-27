@@ -7,13 +7,6 @@ The design is inspired by modern eCommerce platforms to demonstrate layout skill
 
 ---
 
-## 🖼️ Preview
-
-![Homepage Preview](preview.png)  
-<sub>*You can upload a screenshot of your homepage and rename it to `preview.png` to display it here.*</sub>
-
----
-
 ## ✨ Features
 
 - Fully responsive homepage layout
