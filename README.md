@@ -23,7 +23,7 @@ The design is inspired by modern eCommerce platforms to demonstrate layout skill
 |------------|------------------------|
 | HTML5      | Page structure          |
 | CSS3       | Styling and layout      |
-| JavaScript | UI interactivity (if used) |
+| JavaScript | UI interactivity        |
 
 ---
 
